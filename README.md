@@ -1,7 +1,4 @@
 # Transformer-based-governor-for-multi-axis-systems
-Transformer-based governor for multi-axis systems
-# Deployable Power-Aware Time Scaling (DC-Bus Power Budgeting) — MATLAB Reference Implementation
-
 This repository contains the MATLAB reference implementation accompanying the manuscript:
 
 > **Deployable power-aware time scaling with a look-ahead Transformer-based governor for DC-bus input power budgeting and smoothing in multi-axis systems**  
